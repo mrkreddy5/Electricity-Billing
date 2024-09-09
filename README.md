@@ -1,5 +1,5 @@
-# Electricity-Billing
-Java Code For Electricity Billing Project
+# Electricity-Billing- Desk
+Java Code For Electricity Billing Desk Project
 
 Electricity Billing Desk Project
 
